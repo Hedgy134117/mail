@@ -2,6 +2,8 @@
 
 ## a program made in python that lets the user send multiple emails to another email.
 
+### WARNING: It will not work if you do not have [less secure apps](https://myaccount.google.com/lesssecureapps) enabled
+
 user has the following inputs:
 
 - sender email:
